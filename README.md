@@ -11,9 +11,8 @@ Presentation Video: [Check Here](https://youtu.be/embed/HVOUbuy16EI)
 After the 5G launch in May 2022, Wavecon's management noticed a decrease in active users and revenue growth. The director asked the analytics team for a comparison of KPIs pre and post-launch to make informed decisions for recovery. They're also exploring internet plan optimizations to increase active users.
 
 ## Data Model
-(https://github.com/user-attachments/assets/5b2d351f-4bfa-4559-8f6c-3192eaeeca69)
 
-<img src="">
+<img src="https://github.com/user-attachments/assets/5b2d351f-4bfa-4559-8f6c-3192eaeeca69">
 
 ## Dashboard Design
 
