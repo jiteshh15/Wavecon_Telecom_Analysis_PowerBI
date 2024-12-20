@@ -1,14 +1,14 @@
 # Wavecon_Telecom_Analysis_PowerBI
 
 ## Project Overview
-Wavecon is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
+Wavecon, a top telecom provider in India, launched its 5G services in May 2022. While this was an exciting milestone, the company noticed some challenges after the launch.
 
 Access to the real-time dashboard [Click here](https://app.powerbi.com/view?r=eyJrIjoiYjNmNTYwMGMtZWE3MC00MDlmLWJhOTUtNmM2NGFmOTgwNDg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to explore the live dashboard.
 
-Presentation Video: [Check Here](https://youtu.be/embed/HVOUbuy16EI)  
+Presentation Video: [Check Here](https://youtu.be/HVOUbuy16EI)  
 
 ## Problem statement
-After the 5G launch in May 2022, Wavecon's management noticed a decrease in active users and revenue growth. The director asked the analytics team for a comparison of KPIs pre and post-launch to make informed decisions for recovery. They're also exploring internet plan optimizations to increase active users.
+Since the 5G launch, Wavecon has seen a drop in active users and revenue growth. The management wants a clear comparison of key metrics (KPIs) from before and after the launch to identify issues and work on solutions. They're also looking for ways to improve internet plans to attract more users.
 
 ## Data Model
 
@@ -16,15 +16,18 @@ After the 5G launch in May 2022, Wavecon's management noticed a decrease in acti
 
 ## Dashboard Design
 
-![main_page](https://github.com/Sourav749/Wavecon_Telecom_Analysis_PowerBI/blob/main/Resources/Main%20Page.png)
+![Home Page](https://github.com/user-attachments/assets/2136018c-35b7-4b13-a268-936f2f6846b9)
 
-![market_page](https://github.com/Sourav749/Wavecon_Telecom_Analysis_PowerBI/blob/main/Resources/Market%20page.png)
+![Market Page](https://github.com/user-attachments/assets/3d00b720-d873-4209-bad3-863ce5889bf5)
 
-![plans_page](https://github.com/Sourav749/Wavecon_Telecom_Analysis_PowerBI/blob/main/Resources/Plan%20Page.png)
+![Plan Page](https://github.com/user-attachments/assets/b9466531-a8b5-4dbb-b83b-29e6a5fbeb51)
+
+
+
 
 ## Insights
-- Revenue declined by 0.5%, primarily affecting Delhi, Chennai, and Ahmedabad cities compared to the previous network.
-- Even though there is a decline in the revenue, ARPU (Average revenue per user) has increased from 190.2 to 211.3 rupees.
-- Wavecon consistently holds the third position in the market without any alterations.
-- Plans 1,2 and 11 are the most highly performing plans among all the plans.
-- Pune experienced an 18% growth in active users, even with a 55% increase in unsubscribed users.
+- Revenue Dip: Revenue fell by 0.5%, with Delhi, Chennai, and Ahmedabad facing the biggest impact.
+- ARPU Increase: Despite the revenue drop, Average Revenue Per User (ARPU) rose from ₹190.2 to ₹211.3.
+- Market Position: Wavecon consistently holds the #3 spot in the market.
+- Top Plans: Plans 1, 2, and 11 are performing exceptionally well.
+- Pune’s Growth: Active users in Pune grew by 18%, even though the city saw a 55% rise in unsubscribed users.
